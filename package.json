@@ -1,5 +1,5 @@
 {
-  "name": "MeetingRoombyTVS",
+  "name": "meetingroomapi",
   "version": "1.0.0",
   "description": "Meeting Room by TVS",
   "main": "server.js",
