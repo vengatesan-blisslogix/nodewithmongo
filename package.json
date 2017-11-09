@@ -1,0 +1,24 @@
+{
+  "name": "MeetingRoombyTVS",
+  "version": "1.0.0",
+  "description": "Meeting Room by TVS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vengatesan R",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-jsonschema": "^1.1.6",
+    "jsonwebtoken": "^7.4.3",
+    "mongodb": "^2.2.33",
+    "morgan": "^1.8.2",
+    "node-cache": "^4.1.1",
+    "nodemon": "^1.12.1",
+    "path": "^0.12.7",
+    "persistent-cache": "^1.1.1",
+    "promised-mongo": "^1.2.0"
+  }
+}
